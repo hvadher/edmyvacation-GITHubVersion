@@ -20,7 +20,7 @@ import com.ellisdon.portal.mv.util.CommanConstants;
 import com.ellisdon.portal.mv.util.StopWatch;
 
 /**
- * This is the view controller for the User Login view of My Vacation
+ * This is the view controller for the User Login view of My Vacation Application
  *
  * @author ahmedb
  * @version 1.0, Nov 8, 2011

@@ -8,7 +8,7 @@ import com.ellisdon.portal.mv.dto.UserDTO;
  * This is the Interface Class for User Data Access Object
  *
  * @author ahmedb
- * @version 1.0, Nov 28, 2010
+ * @version 1.0, Nov 28, 2015
  * @since JDK1.6
  */
 

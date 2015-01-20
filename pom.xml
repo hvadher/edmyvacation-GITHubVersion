@@ -4,7 +4,7 @@
   <artifactId>edmyacation</artifactId>
   <version>3.5</version>
   <packaging>war</packaging>
-  <name>ED MyVacation</name>
+  <name>ED MyVacation GIT</name>
   
   <!--  Comments Added : Test-->
     <repositories>
