@@ -14,7 +14,7 @@ import com.ellisdon.portal.mv.service.UserService;
 import com.ellisdon.portal.mv.exception.MyVacationRuntimeException;
 
 /**
- * This is JUnit test class for the VacationService class
+ * This is JUnit test class for the TestUserService class
  *
  * @author ahmedb
  * @version 1.0, Nov 9, 2011
