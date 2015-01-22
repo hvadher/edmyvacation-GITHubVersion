@@ -16,7 +16,7 @@ import com.ellisdon.portal.mv.dto.VacationEntitlementDTO;
 import com.ellisdon.portal.mv.util.Utility;
 
 /**
- * This is the JUnit test class for TestUserDAO
+ * This is the JUnit test-class for TestUserDAO
  *
  * @author ahmedb
  * @version 1.0, Nov 09, 2011
